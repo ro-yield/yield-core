@@ -4,3 +4,7 @@ this is a valve-console type multitool. i mainly use it to find vulnerabilities 
 <b> current version </b> 
 
 = v1 beta =
+
+<b> code </b>
+
+loadstring(game:HttpGet('https://github.com/ro-yield/yield-core/blob/main/CORE.lua'))()
